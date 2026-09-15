@@ -11,7 +11,7 @@
     "href": "index.html#what-are-we-working-on-right-now",
     "title": "RAPID-CDL",
     "section": "What are we working on right now?",
-    "text": "What are we working on right now?\nNotes from last week carried forward.\n… Tweaking inquiries RO-crates for better searchability\n… Cannot avoid SGML for much longer\n… Metadata work: I’m sure there will be something interesting to report next week"
+    "text": "What are we working on right now?\n… Making title pages (fun with quarterly reporting)\n… Ingesting means different things to different groups (fun with words)\n… Last weeknote was a month ago (fun with workloads)"
   },
   {
     "objectID": "index.html#how-can-we-help-your-research",
@@ -40,6 +40,13 @@
     "title": "Federal Parliament Speeches about the Job-Ready Graduates Bill",
     "section": "",
     "text": "What did Parliament actually say when it decided an Arts degree should cost up to $50,000?\nWe’ve just released a structured dataset of the Federal Parliamentary debate on the Job-ready Graduates Package, at a moment when there is a call for submissions to reverse the policy.\nBut before we rehearse the familiar arguments, it’s worth returning to the source. Often what is said in media commentary does not clearly match the practicalities of government. Before making assumptions, return to the source. It will ensure the strongest submission possible.\nOur project extracts Federal Hansard debates from the Parliament of Australia and converts them into clean, research-ready datasets.\nThis one includes:\n\nEvery parliamentary reference to the Job-ready Graduates reforms\nFull speech text (not excerpts)\nSpeaker metadata\nLinks back to the official transcripts\n\nNo scrolling through webpages. No copy-paste assembly. Just structured debate ready for analysis, teaching, journalism, or submission writing.\nIf you’re preparing a submission, conducting research, teaching higher education policy, or simply want to check the rhetoric against the record, this dataset gives you the debate in a usable form.\n📎 Dataset link\n📣 Call for submissions\nWe’re building an open project that makes parliamentary debate more accessible, searchable, and usable for researchers, educators, journalists and advocates.\nIf you use it, let us know, and cite the dataset! And if you’d like access to similar datasets on other debates, follow the project here.\nSee this on LinkedIn"
+  },
+  {
+    "objectID": "blog/posts/2026-08-19_now.html",
+    "href": "blog/posts/2026-08-19_now.html",
+    "title": "19 Aug 2026: Currently working",
+    "section": "",
+    "text": "Notes from last week carried forward.\n… Tweaking inquiries RO-crates for better searchability\n… Cannot avoid SGML for much longer\n… Metadata work: I’m sure there will be something interesting to report next week"
   },
   {
     "objectID": "blog/posts/2026-08-04_now.html",
@@ -130,7 +137,7 @@
     "href": "blog/index.html#currently-working-updates",
     "title": "RAPID-CDL Blog",
     "section": "Currently working updates",
-    "text": "Currently working updates\n\n\n\n\n\n19 Aug 2026: Currently working\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\n04 Aug 2026: Currently working\n\n\n\n\n\nAug 4, 2026\n\n\n\n\n\n\n\n22 Jul 2026: Currently working\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
+    "text": "Currently working updates\n\n\n\n\n\n15 Sep 2026: Currently working\n\n\n\n\n\nSep 15, 2026\n\n\n\n\n\n\n\n19 Aug 2026: Currently working\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\n18 Aug 2026: Currently working\n\n\n\n\n\nAug 18, 2026\n\n\n\n\n\n\n\n04 Aug 2026: Currently working\n\n\n\n\n\nAug 4, 2026\n\n\n\n\n\n\n\n22 Jul 2026: Currently working\n\n\n\n\n\nJul 22, 2026\n\n\n\n\n\n\n\n25 Jun 2026: Currently working\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n19 Jun 2026: Currently working\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n10 Jun 2026: Currently working\n\n\n\n\n\nJun 10, 2026\n\n\n\n\n\n\n\n2 Jun 2026: Currently working\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n26 May 2026: Currently working\n\n\n\n\n\nMay 26, 2026\n\n\n\n\n\n\n\n19 May 2026: Currently working\n\n\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n12 May 2026: Currently working\n\n\n\n\n\nMay 12, 2026\n\n\n\n\n\n\n\n8 May 2026: Currently working\n\n\n\n\n\nMay 8, 2026\n\n\n\n\n\n\n\n29 Apr 2026: Currently working\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n22 Apr 2026: Currently working\n\n\n\n\n\nApr 22, 2026\n\n\n\n\n\n\n\n14 Apr 2026: Currently working\n\n\n\n\n\nApr 14, 2026\n\n\n\n\n\n\n\n10 Apr 2026: Currently working\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\n\n\n2 Apr 2026: Currently working\n\n\n\n\n\nApr 2, 2026\n\n\n\n\n\n\n\n24 Mar 2026: Currently working\n\n\n\n\n\nMar 24, 2026\n\n\n\n\n\n\n\n17 Mar 2026: Currently working\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n11 Mar 2026: Currently working\n\n\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n27 Feb 2026: Currently working\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\nNo matching items\n\n  \n\n\n\nRAPID Blog RSS feed"
   },
   {
     "objectID": "blog/posts/2026-03-11_now.html",
@@ -196,11 +203,18 @@
     "text": "After a very busy few weeks including leave periods, we return to our week notes in a hopefully weekly fashion. Hopefully you didn’t miss us too much. (If you skim past this part it looks like we did a lot of work very rapidly)\n… The data portal is ready for data!\n… We put data in the data portal!\n… Immediately we notice Things about the data portal!"
   },
   {
-    "objectID": "blog/posts/2026-08-19_now.html",
-    "href": "blog/posts/2026-08-19_now.html",
-    "title": "19 Aug 2026: Currently working",
+    "objectID": "blog/posts/2026-08-18_now.html",
+    "href": "blog/posts/2026-08-18_now.html",
+    "title": "18 Aug 2026: Currently working",
     "section": "",
-    "text": "Notes from last week carried forward.\n… Tweaking inquiries RO-crates for better searchability\n… Cannot avoid SGML for much longer\n… Metadata work: I’m sure there will be something interesting to report next week"
+    "text": "Notes from last week carried forward.\n… Tweaking inquiries RO-crates for better searchability\n… Cannot avoid SGML for much longer\n… Metadata work: I’m sure there will be something interesting to report on that next week"
+  },
+  {
+    "objectID": "blog/posts/2026-09-15_now.html",
+    "href": "blog/posts/2026-09-15_now.html",
+    "title": "15 Sep 2026: Currently working",
+    "section": "",
+    "text": "… Making title pages (fun with quarterly reporting)\n… Ingesting means different things to different groups (fun with words)\n… Last weeknote was a month ago (fun with workloads)"
   },
   {
     "objectID": "blog/posts/Newsletter-2026-Q1-Q2/index.html",

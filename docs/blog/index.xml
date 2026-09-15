@@ -9,8 +9,28 @@
 <link>https://rapid-community-data-lab.github.io/blog/</link>
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 19 Aug 2026 00:33:00 GMT</lastBuildDate>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 15 Sep 2026 00:55:00 GMT</lastBuildDate>
+<item>
+  <title>15 Sep 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-09-15_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>… Making title pages (fun with quarterly reporting)</p>
+<p>… Ingesting means different things to different groups (fun with words)</p>
+<p>… Last weeknote was a month ago (fun with workloads)</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-09-15_now.html</guid>
+  <pubDate>Tue, 15 Sep 2026 00:55:00 GMT</pubDate>
+</item>
 <item>
   <title>19 Aug 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
@@ -31,6 +51,27 @@
   <category>week_notes</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-08-19_now.html</guid>
   <pubDate>Wed, 19 Aug 2026 00:33:00 GMT</pubDate>
+</item>
+<item>
+  <title>18 Aug 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-08-18_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Notes from last week carried forward.</p>
+<p>… Tweaking inquiries RO-crates for better searchability</p>
+<p>… Cannot avoid SGML for much longer</p>
+<p>… Metadata work: I’m sure there will be something interesting to report on that next week</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-08-18_now.html</guid>
+  <pubDate>Tue, 18 Aug 2026 01:44:00 GMT</pubDate>
 </item>
 <item>
   <title>04 Aug 2026: Currently working</title>
@@ -413,46 +454,6 @@
   <category>week_notes</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-04-02_now.html</guid>
   <pubDate>Wed, 01 Apr 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>24 Mar 2026: Currently working</title>
-  <dc:creator>Eve Ansell</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-03-24_now.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Full steam ahead on the tech work! Data processing, ONI dev work, etc…..</p>
-<p>Several good chats with our HASS research infrastructure (RI) friends at <a href="https://www.ldaca.edu.au/">LDaCA</a>, <a href="https://internetobservatory.org.au/">AIO</a>, and <a href="https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html">SIH</a>….</p>
-<p>Planned our first “Work From QCIF Day”…</p>
-
-
-
- ]]></description>
-  <category>week_notes</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-03-24_now.html</guid>
-  <pubDate>Mon, 23 Mar 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>17 Mar 2026: Currently working</title>
-  <dc:creator>Eve Ansell</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-03-17_now.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://zenodo.org/records/18946597">Released a dataset!</a> …..</p>
-<p>Just finished our SECOND internal demo (LDaCA &amp; QCIF)….</p>
-<p>Finishing the first work packages report…</p>
-
-
-
- ]]></description>
-  <category>week_notes</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-03-17_now.html</guid>
-  <pubDate>Mon, 16 Mar 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
