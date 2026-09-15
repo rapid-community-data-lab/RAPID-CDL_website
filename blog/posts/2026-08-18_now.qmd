@@ -1,0 +1,15 @@
+---
+title: "18 Aug 2026: Currently working"
+author: "Eve Ansell"
+date: "2026-08-18 11:44"
+categories: [week_notes]
+---
+
+Notes from last week carried forward. 
+
+... Tweaking inquiries RO-crates for better searchability
+
+... Cannot avoid SGML for much longer
+
+... Metadata work: I'm sure there will be something interesting to report on that next week
+
