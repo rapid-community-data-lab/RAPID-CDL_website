@@ -6,7 +6,7 @@ Welcome to the Reusable and Accessible Public Interest Documents project, part o
 
 ## What are we working on right now?
 
-{{< external ./blog/posts/2026-09-15_now.qmd shift-heading-level-by=1 >}}
+{{< external ./blog/posts/2026-09-22_now.qmd shift-heading-level-by=1 >}}
 
 
 

@@ -9,8 +9,28 @@
 <link>https://rapid-community-data-lab.github.io/blog/</link>
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
-<generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 15 Sep 2026 00:55:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 22 Sep 2026 00:37:00 GMT</lastBuildDate>
+<item>
+  <title>22 Sep 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-09-22_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>… Sam’s specialist track at Everything Open got 12 submissions!</p>
+<p>… Scheming (about schemas)</p>
+<p>… Fun feedback about citation generating for government reports</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-09-22_now.html</guid>
+  <pubDate>Tue, 22 Sep 2026 00:37:00 GMT</pubDate>
+</item>
 <item>
   <title>15 Sep 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
@@ -434,26 +454,6 @@
   <category>week_notes</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-04-10_now.html</guid>
   <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>2 Apr 2026: Currently working</title>
-  <dc:creator>Eve Ansell</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-04-02_now.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Work from QCIF was great (breakfast for lunch!) with a surprise Pawsey friend…..</p>
-<p>ARDC/LDaCA engagement meeting: <em>anything that lowers the <strong>perceived</strong> barrier to entry is good</em> (from an Eve scribble, not a direct quote)….</p>
-<p>The cats have synced their calendars for coordinated daily yelling (11am, in case you’re curious)…</p>
-
-
-
- ]]></description>
-  <category>week_notes</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-04-02_now.html</guid>
-  <pubDate>Wed, 01 Apr 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
