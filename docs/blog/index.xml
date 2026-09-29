@@ -9,8 +9,28 @@
 <link>https://rapid-community-data-lab.github.io/blog/</link>
 <atom:link href="https://rapid-community-data-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>The RAPID-CDL blog: news, events, and WIP</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Tue, 22 Sep 2026 00:37:00 GMT</lastBuildDate>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Tue, 29 Sep 2026 00:39:00 GMT</lastBuildDate>
+<item>
+  <title>29 Sep 2026: Currently working</title>
+  <dc:creator>Eve Ansell</dc:creator>
+  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-09-29_now.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>… WAKE US UP WHEN SEPTEMBER ENDS</p>
+<p>… Just kidding, we met our September deadlines and can rest for a moment</p>
+<p>… Progress report, 3x Hansard deliverables (update process, first version of analytical dataset, first version of metadate profile), and sundry other</p>
+
+
+
+ ]]></description>
+  <category>week_notes</category>
+  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-09-29_now.html</guid>
+  <pubDate>Tue, 29 Sep 2026 00:39:00 GMT</pubDate>
+</item>
 <item>
   <title>22 Sep 2026: Currently working</title>
   <dc:creator>Eve Ansell</dc:creator>
@@ -434,26 +454,6 @@
   <category>week_notes</category>
   <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-04-17_now.html</guid>
   <pubDate>Mon, 13 Apr 2026 14:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>10 Apr 2026: Currently working</title>
-  <dc:creator>Eve Ansell</dc:creator>
-  <link>https://rapid-community-data-lab.github.io/blog/posts/2026-04-10_now.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Hansard workshop at QUT next week with a LOT of Centres invited…..</p>
-<p>Finally got around to adding a background thank you Betsy….</p>
-<p>Used up the allocation of brackets in last week’s post so now we’ll need to get by without for a while sorry if anything looks weird…</p>
-
-
-
- ]]></description>
-  <category>week_notes</category>
-  <guid>https://rapid-community-data-lab.github.io/blog/posts/2026-04-10_now.html</guid>
-  <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
